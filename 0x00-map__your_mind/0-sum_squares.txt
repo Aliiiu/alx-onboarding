@@ -1,0 +1,6 @@
+Pseudocode
+This program calculates the sum of squares of a given input number.
+
+LET n = given number
+LET x = n*n + n*n
+RETURN x.
